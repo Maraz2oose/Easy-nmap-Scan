@@ -1,4 +1,8 @@
 # Easy-nmap-Scan
+## **[Releases](https://github.com/Maraz2oose/Easy-nmap-Scan/releases/latest)**
+
+### **I Am open to all colaboration and will apreciate the help**
+
 This is a simple shell script designed to simplify using nmap in terminal.
 
 make sure to do "sudo install nmap" first
