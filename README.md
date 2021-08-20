@@ -3,4 +3,4 @@ This is a simple shell script designed to simplify using nmap in terminal.
 
 make sure to do "sudo install nmap" first
 
-In order to run simply double click on it. if that dosent work cd to the directory and do "./Easy-nmap-Scan" or whatever its called
+To run cd into the directory and do "./Easy" then press tab and it should auto complete
